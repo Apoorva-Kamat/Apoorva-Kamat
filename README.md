@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva-kamat&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva-kamat" /> </p>
 
-- 🌱 I’m currently learning **full stack web development**
+
 
 - 📫 How to reach me **apoorvakamat825@gmail.com**
 
